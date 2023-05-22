@@ -1,0 +1,18 @@
+build/
+
+# VS
+.vscode/
+.vs/
+CMakeSettings.json
+
+# Build files
+*.pdb
+*.exe
+*.ilk
+
+# Mesum
+*CONERR$
+
+# Clion
+.idea/
+cmake-build-debug/
